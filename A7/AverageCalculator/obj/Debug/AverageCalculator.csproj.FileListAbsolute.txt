@@ -1,0 +1,12 @@
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\AverageCalculator\AverageCalculator\bin\Debug\AverageCalculator.pdb
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.AverageCalculator.resources
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.Properties.Resources.resources
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.csproj.GenerateResource.Cache
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\AverageCalculator\AverageCalculator\obj\Debug\AverageCalculator.pdb
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A7\AverageCalculator\bin\Debug\AverageCalculator.exe.config
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A7\AverageCalculator\obj\Debug\AverageCalculator.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A7\AverageCalculator\obj\Debug\AverageCalculator.pdb
