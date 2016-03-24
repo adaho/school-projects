@@ -1,0 +1,6 @@
+c:\users\ada\documents\visual studio 2013\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
