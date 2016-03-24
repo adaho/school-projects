@@ -1,0 +1,12 @@
+C:\Users\Ada\Documents\ASU\Fall 2015\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\Ada\Documents\ASU\Fall 2015\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\Ada\Documents\ASU\Fall 2015\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\Ada\Documents\ASU\Fall 2015\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Documents\ASU\Fall 2015\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\Ada\Documents\ASU\Fall 2015\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
