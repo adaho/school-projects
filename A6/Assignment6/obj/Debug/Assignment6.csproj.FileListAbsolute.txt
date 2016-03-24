@@ -1,0 +1,12 @@
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\Assignment6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A6\Assignment6\bin\Debug\Assignment6.exe.config
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A6\Assignment6\obj\Debug\Assignment6.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A6\Assignment6\obj\Debug\Assignment6.pdb
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A6\Assignment6\bin\Debug\Assignment6.exe
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A6\Assignment6\bin\Debug\Assignment6.pdb
+C:\Users\Ada\Documents\Visual Studio 2013\Projects\A6\Assignment6\obj\Debug\Assignment6.csprojResolveAssemblyReference.cache
